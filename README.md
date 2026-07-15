@@ -64,7 +64,7 @@ Professional backend API for **collabrix** - a real-time collaborative project m
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Four-Tier Architecture
 ```
@@ -87,7 +87,7 @@ Data Layer (MongoDB + Mongoose)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -262,7 +262,7 @@ socket.on('task:deleted', (taskId) => {...})
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - API Response Time: <500ms (95th percentile)
 - WebSocket Event Latency: <100ms
